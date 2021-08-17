@@ -2,10 +2,14 @@
 Python script that puts all the colors in an image in a scatterplot. Utilized Matplotlib, OpenCV and numpy
 
 I used a cluttered photo of jellybeans posted below. 
+
+
 ![Alt text](./jellybean.jpg)
 
 
-These are the outpits
+These are the outputs:
+
+
 ![Alt text](./Output/Figure_1.png)
 
 
